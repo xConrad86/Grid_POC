@@ -1,0 +1,6 @@
+.select-items{
+    display: flex;
+    gap: 2vw;    
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
